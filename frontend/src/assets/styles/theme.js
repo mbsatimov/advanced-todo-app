@@ -1,0 +1,25 @@
+export const lightTheme = {
+	primary: '#695cfe',
+	secondary: '#f6f5ff',
+	bg: '#fff',
+	bg2: '#efeeff',
+	bg_body: '#e4e9f7',
+	text: '#827f9f',
+	sub_text: '#a2a2a2',
+	light_text: ' #e4e9f7',
+	disable_text: 'rgba(100, 100, 100, 0.5)',
+	border: 'rgba(255, 255, 255, .2)',
+	boxShadow: 'rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) - 6px -2px 16px 0px',
+}
+export const darkTheme = {
+	primary: '#695cfe',
+	secondary: '#3a3b3c',
+	bg: '#242526',
+	bg2: '#2e2e31',
+	bg_body: '#18191a',
+	text: '#ccc',
+	sub_text: '#9b9b9b',
+	light_text: ' #e4e9f7',
+	disable_text: 'rgba(100, 100, 100, 0.5)',
+	boxShadow: 'rgba(136, 165, 191, 0.1) 6px 2px 16px 0px, rgba(255, 255, 255, 0.1) - 6px -2px 16px 0px',
+}
